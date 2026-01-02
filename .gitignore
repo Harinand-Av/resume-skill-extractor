@@ -1,0 +1,9 @@
+# Ignore all PDF files in uploads folder
+uploads/*.pdf
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Optional: ignore environment files
+*.env
