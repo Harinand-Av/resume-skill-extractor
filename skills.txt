@@ -1,0 +1,15 @@
+python
+machine learning
+deep learning
+sql
+flask
+django
+opencv
+tensorflow
+pytorch
+data analysis
+nlp
+computer vision
+data science
+Communication
+HTML
